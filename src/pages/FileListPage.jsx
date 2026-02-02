@@ -3,7 +3,7 @@ import { Download, Play, FileText, User, ExternalLink } from 'lucide-react';
 
 // ファイルリスト型のデザイン
 export default function FileListPage() {
-  const PAGE_CONFIG = { title: "Link Drop", subtitle: "おすすめコンテンツ集", description: "期間限定で公開しているリンク集です", footer: "©2025 My Link Portal" };
+  const PAGE_CONFIG = { title: "Link Drop", subtitle: "限定コンテンツ配布中", description: "期間限定で公開しているリンク集です", footer: "©2025 My Link Portal" };
   const LINKS_DATA = [
     { id: 1, title: "最新の活動レポート.pdf", meta: "12.5 MB · 2025/01/28", thumbnail: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", url: "https://example.com/item1", isVideo: false },
     { id: 2, title: "プロモーション動画 2025", meta: "189.2 MB · 2025/01/27", thumbnail: "https://images.unsplash.com/photo-1492691523567-61723c295fe4?w=800&q=80", url: "https://example.com/video1", isVideo: true },
