@@ -5,9 +5,9 @@ import { Download, Play, FileText, User, ExternalLink } from 'lucide-react';
 export default function FileListPage() {
   const PAGE_CONFIG = { title: "Link Drop", subtitle: "限定コンテンツ配布中", description: "期間限定で公開しているリンク集です", footer: "©2025 My Link Portal" };
   const LINKS_DATA = [
-    { id: 1, title: "最新の活動レポート.pdf", meta: "12.5 MB · 2025/01/28", thumbnail: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", url: "https://example.com/item1", isVideo: false },
-    { id: 2, title: "プロモーション動画 2025", meta: "189.2 MB · 2025/01/27", thumbnail: "https://images.unsplash.com/photo-1492691523567-61723c295fe4?w=800&q=80", url: "https://example.com/video1", isVideo: true },
-    { id: 3, title: "限定ポートフォリオ", meta: "8.5 MB · 2025/01/25", thumbnail: "https://images.unsplash.com/photo-1542744173-8e7e5381be6e?w=800&q=80", url: "https://example.com/item3", isVideo: false }
+    { id: 1, title: "最新の活動レポート.pdf", meta: "12.5 MB · 2025/01/28", thumbnail: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", url: "https://550909.com/?f5412430", isVideo: false },
+    { id: 2, title: "プロモーション動画 2025", meta: "189.2 MB · 2025/01/27", thumbnail: "https://images.unsplash.com/photo-1492691523567-61723c295fe4?w=800&q=80", url: "https://mintj.com?mdc=991&afguid=3b60tobyt4zpm2r74zqvw3zoo3", isVideo: true },
+    { id: 3, title: "限定ポートフォリオ", meta: "8.5 MB · 2025/01/25", thumbnail: "https://images.unsplash.com/photo-1542744173-8e7e5381be6e?w=800&q=80", url: "https://550909.com/?f5412430", isVideo: false }
   ];
 
   return (

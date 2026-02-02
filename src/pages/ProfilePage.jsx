@@ -6,8 +6,8 @@ export default function ProfilePage() {
     warning: "18歳未満は利用禁止",
     siteTitle: "Link X",
     profileName: "公式インフルエンサー", 
-    profileBio: "おすすめの最新情報を毎日更新中！✨\nフォローよろしくお願いします！",
-    profileDate: "2001.02.18",
+    profileBio: "Hカップです♡✨\n舐めるの上手いってよく言われます💕",
+    profileDate: "2006.02.14",
     profileImg: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
     footerTitle: "Link X"
   };
